@@ -13,7 +13,7 @@
   - [Hacks From irungentoo](#hacks-from-irungentoo)
     - [Hacks Not Included From irungentoo](#hacks-not-included-from-irungentoo)
   - [Hacks From ddimensia](#hacks-from-ddimensia)
-    - [Hacks Not Included from ddimensia](#hacks-not-included-from-ddimensia)
+    - [Hacks Not Included From ddimensia](#hacks-not-included-from-ddimensia)
 
 ## About
 
@@ -37,13 +37,13 @@ In researching hacks for this project, I found a ton of resources. This is a lis
 
 1. Download this project as a _.zip_ file
 2. Extract it somewhere on your computer
-3. Modify any should the file need to be modified. See the [Hacks](#hacks) section for more information
+3. Modify any should the file need to be modified. Read about specific hacks for more information
 4. On the root of a micro SD card, copy all of the files in the [`hacks`](hacks/) folder to the root of your micro SD card
 5. Eject the micro SD card from your computer
 6. Turn **off** your Xiaomi Yi 4k Action Camera
 7. Plug in the micro SD card
 8. Turn **on** your Xiaomi Yi 4k Action Camera
-9. The hacks will be applied automatically
+9. The hacks will be applied automatically on boot
 
 ## Hacks From irungentoo
 
@@ -66,8 +66,9 @@ In researching hacks for this project, I found a ton of resources. This is a lis
 - [`autoexec.ash`](hacks/autoexec.ash) logging (via [`autoexec.ash`](hacks/autoexec.ash))
 - Enable USB console (via [`usbConsole.sh`](hacks/scripts/usbConsole.sh))
 - Autostart Wifi client (via [`wifiClient.sh`](hacks/scripts/wifiClient.sh), [`wifi_client_enable.script`](hacks/wifi_client_enable.script), and [`wifi_sta.conf`](hacks/wifi_sta.conf))
+  - Modify [`wifi_sta.conf`](hacks/wifi_sta.conf) with your network information
 
-### Hacks Not Included from ddimensia
+### Hacks Not Included From ddimensia
 
 - Auto Live Steam to RTMP Server
   - [More information](https://github.com/ddimensia/yi_4k_hacks#rtmp-streaming)
