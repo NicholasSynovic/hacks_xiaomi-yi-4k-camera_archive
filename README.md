@@ -35,7 +35,7 @@ I have no intention of testing this project on other cameras or firmwares. So if
 
 ## Hacks
 
--Enable telnet
--Enable logging to micro SD card
--Dump camera settings to file on micro SD card
--Load camera settings from file on micro SD card
+- Enable telnet
+- Enable logging to micro SD card
+- Dump camera settings to file on micro SD card
+- Load camera settings from file on micro SD card
