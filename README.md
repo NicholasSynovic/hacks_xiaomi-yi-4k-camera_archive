@@ -8,6 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Supported Devices](#supported-devices)
+  - [Resources](#resources)
   - [How to Install](#how-to-install)
   - [Hacks From irungentoo](#hacks-from-irungentoo)
     - [Hacks Not Included From irungentoo](#hacks-not-included-from-irungentoo)
@@ -20,9 +21,18 @@ This project wouldn't be possible without the work of [irungentoo](https://githu
 
 ## Supported Devices
 
-This is a project to combine the work that both of the aforementioned developers have done into one singular repository for the Xiaomi Yi 4k Action Camera (serial number: **z16v13lb622**) on firmware **1.10.9**.
+This is a project to combine the work that both of the aforementioned developers have done into one singular repository for the [Xiaomi Yi 4k Action Camera](https://dashcamtalk.com/yi-4k-action-camera/) (serial number: **z16v13lb622**) on firmware **1.10.9**.
 
 I have no intention of testing this project on other cameras or firmwares. So if you decide to try this out on other firmware, user _beware of unknown bugs_.
+
+## Resources
+
+In researching hacks for this project, I found a ton of resources. This is a list of sites that I found containing information about Xiaomi Yi 4k Action Camera hacking.
+
+- [Product Information](https://dashcamtalk.com/yi-4k-action-camera/)
+- [Help and Hacking Forum](https://dashcamtalk.com/forum/forums/yi-4k-action-camera.195/)
+- [Firmware and Mobile App Download](https://www2.yitechnology.com/firmware/index/class/action)
+
 
 ## How to Install
 
