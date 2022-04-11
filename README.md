@@ -10,7 +10,9 @@
   - [Supported Devices](#supported-devices)
   - [How to Install](#how-to-install)
   - [Hacks From irungentoo](#hacks-from-irungentoo)
+    - [Hacks Not Included From irungentoo](#hacks-not-included-from-irungentoo)
   - [Hacks From ddimensia](#hacks-from-ddimensia)
+    - [Hacks Not Included from ddimensia](#hacks-not-included-from-ddimensia)
 
 ## About
 
@@ -41,8 +43,22 @@ I have no intention of testing this project on other cameras or firmwares. So if
 - Dump camera settings to file on micro SD card (via [`system.pref.download`](hacks/system.pref.download))
 - Load camera settings from file on micro SD card (via [`system.pref.upload`](hacks/system.pref.upload.1))
 
+### Hacks Not Included From irungentoo
+
+- Ultra Increased Resolution
+  - [More information](https://github.com/irungentoo/Xiaomi_Yi_4k_Camera/tree/master/4k/ultra_increased_resolution/1.10.9)
+- VR (not sure what this means)
+  - [More Information](https://github.com/irungentoo/Xiaomi_Yi_4k_Camera/tree/master/4k/vr)
+- Increased Bitrates
+  - [More information](https://github.com/irungentoo/Xiaomi_Yi_4k_Camera/tree/master/bitrate/4k/1.10.9)
+
 ## Hacks From ddimensia
 
 - [`autoexec.ash`](hacks/autoexec.ash) logging (via [`autoexec.ash`](hacks/autoexec.ash))
 - Enable USB console (via [`usbConsole.sh`](hacks/scripts/usbConsole.sh))
 - Autostart Wifi client (via [`wifiClient.sh`](hacks/scripts/wifiClient.sh), [`wifi_client_enable.script`](hacks/wifi_client_enable.script), and [`wifi_sta.conf`](hacks/wifi_sta.conf))
+
+### Hacks Not Included from ddimensia
+
+- Auto Live Steam to RTMP Server
+  - [More information](https://github.com/ddimensia/yi_4k_hacks#rtmp-streaming)
