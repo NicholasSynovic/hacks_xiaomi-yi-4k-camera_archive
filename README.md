@@ -35,7 +35,7 @@ I have no intention of testing this project on other cameras or firmwares. So if
 
 ## Hacks
 
-- Enable telnet
-- Enable logging to micro SD card
-- Dump camera settings to file on micro SD card
-- Load camera settings from file on micro SD card
+- Enable telnet (via [`console_enable.script`](hacks/console_enable.script))
+- Enable logging to micro SD card (via [`save_log_enable.script`](hacks/save_log_enable.script))
+- Dump camera settings to file on micro SD card (via [`system.pref.download`](hacks/system.pref.download))
+- Load camera settings from file on micro SD card (via [`system.pref.upload`](hacks/system.pref.upload.1))
