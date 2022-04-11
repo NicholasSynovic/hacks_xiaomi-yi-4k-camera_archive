@@ -33,7 +33,6 @@ In researching hacks for this project, I found a ton of resources. This is a lis
 - [Help and Hacking Forum](https://dashcamtalk.com/forum/forums/yi-4k-action-camera.195/)
 - [Firmware and Mobile App Download](https://www2.yitechnology.com/firmware/index/class/action)
 
-
 ## How to Install
 
 1. Download this project as a _.zip_ file
