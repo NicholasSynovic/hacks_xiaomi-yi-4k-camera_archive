@@ -9,7 +9,8 @@
   - [About](#about)
   - [Supported Devices](#supported-devices)
   - [How to Install](#how-to-install)
-  - [Hacks](#hacks)
+  - [Hacks From irungentoo](#hacks-from-irungentoo)
+  - [Hacks From ddimensia](#hacks-from-ddimensia)
 
 ## About
 
@@ -33,9 +34,15 @@ I have no intention of testing this project on other cameras or firmwares. So if
 8. Turn **on** your Xiaomi Yi 4k Action Camera
 9. The hacks will be applied automatically
 
-## Hacks
+## Hacks From irungentoo
 
 - Enable telnet (via [`console_enable.script`](hacks/console_enable.script))
 - Enable logging to micro SD card (via [`save_log_enable.script`](hacks/save_log_enable.script))
 - Dump camera settings to file on micro SD card (via [`system.pref.download`](hacks/system.pref.download))
 - Load camera settings from file on micro SD card (via [`system.pref.upload`](hacks/system.pref.upload.1))
+
+## Hacks From ddimensia
+
+- [`autoexec.ash`](hacks/autoexec.ash) logging (via [`autoexec.ash`](hacks/autoexec.ash))
+- Enable USB console (via [`usbConsole.sh`](hacks/scripts/usbConsole.sh))
+- Autostart Wifi client (via [`wifiClient.sh`](hacks/scripts/wifiClient.sh), [`wifi_client_enable.script`](hacks/wifi_client_enable.script), and [`wifi_sta.conf`](hacks/wifi_sta.conf))
